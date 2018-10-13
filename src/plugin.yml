@@ -1,0 +1,10 @@
+main: com.spaceman.codeCracker.Main
+name: CodeCracker
+version: 1.13
+api-version: 1.13
+author: The_Spaceman
+
+commands:
+  CodeCracker:
+    description: start playing CodeCracker
+    aliases: [cc]
